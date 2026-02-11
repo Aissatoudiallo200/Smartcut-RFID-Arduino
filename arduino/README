@@ -1,1 +1,16 @@
+## 🔬 Architecture technique
+
+### Capteur de pression (FSR)
+- Lecture analogique sur A0
+- Moyenne glissante sur 10 échantillons
+- Seuil de détection : 600
+
+### Module RFID RC522
+- SPI
+- Validation du tag via UID
+- Système de latch pour stabilité
+
+### Indicateurs
+- LED verte : gant détecté
+- LED rouge + buzzer : absence de gant
 
