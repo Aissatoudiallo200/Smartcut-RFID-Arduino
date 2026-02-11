@@ -44,7 +44,7 @@ Le code Arduino est disponible dans le dossier `/arduino`.
 
 ## 🖼 Poster du projet
 
-![Poster SmartCut](Documentation/Poster Garageweek.png)
+<img width="951" height="671" alt="Capture d&#39;écran 2026-02-11 213342" src="https://github.com/user-attachments/assets/b9e795a0-0ccf-4afb-b4ba-f6936dc1cae5" />
 
 ---
 
